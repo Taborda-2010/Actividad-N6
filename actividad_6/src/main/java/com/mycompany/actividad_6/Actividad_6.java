@@ -5,5 +5,7 @@ public class Actividad_6 {
          ventana iu = new ventana();
          iu.setVisible(true);
          iu.setLocationRelativeTo(null);  
+         
+         
     }
 }
